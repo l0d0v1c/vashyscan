@@ -71,6 +71,8 @@ et `score` servent précisément à isoler le signal.
 
 Le sous-ensemble **annoté physiquement**, exposé par l'explorateur.
 
+Le dataset complet est stocké ici: https://huggingface.co/datasets/RANDMEDIATION/PhysicsBabel (2 millions+ équations)
+
 Le signal physique se concentre dans les petites relations. On a donc retenu la
 tranche **plausible de taille ≤ 4**, dédupliquée par **signature dimensionnelle**
 (deux grandeurs de mêmes dimensions sont interchangeables → même relation), ce
@@ -106,6 +108,8 @@ résistance (von Klitzing / effet Hall quantique)…
 
 L'explorateur est **100 % statique et sans dépendance externe** : ouvrir
 `index.html` (double-clic) suffit.
+
+Les fichiers vashyscan_report.md et .pdf contiennent les équations sous la forme d'un rapport.
 
 Le moteur de génération complet (énumération des circuits, métriques,
 identification LLM) vit dans le projet parent VashyScan ; ce dossier n'en est

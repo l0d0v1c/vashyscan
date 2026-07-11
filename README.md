@@ -135,6 +135,8 @@ annotation LLM de haute qualité mais **non faisant autorité**.
   title  = {VashyScan: criblage complet des équations dimensionnellement cohérentes de la physique},
   note   = {Circuits du matroïde dimensionnel (théorème de Vaschy--Buckingham), identifiés par LLM},
   url    = {https://l0d0v1c.github.io/vashyscan},
-  year   = {2026}
+  year   = {2026},
+  doi    = {10.5281/zenodo.21306738}
 }
 ```
+[![DOI](https://zenodo.org/badge/1296862264.svg)](https://doi.org/10.5281/zenodo.21306738)
